@@ -3,7 +3,7 @@ module.exports = {
     headless: false,
     slowMo: 6000,
     devtools: false,
-    browserContext: 'incognito', // Добавьте эту строку
+    browserContext: 'incognito',
   },
 };
 
